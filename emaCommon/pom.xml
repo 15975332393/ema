@@ -16,7 +16,7 @@
     <hibernate-validator-version>5.2.4.Final</hibernate-validator-version>
         <jackson-annotations-version>2.6.5</jackson-annotations-version>
         <javax.validation-version>1.1.0.Final</javax.validation-version>
-        <poi.version>3.17</poi.version>
+        <poi.version>4.1.1</poi.version>
         <hutool.version>5.0.3</hutool.version>
         <httpcomponents.version>4.4.1</httpcomponents.version>
 		<httpasyncclient.version>4.1.2</httpasyncclient.version>
